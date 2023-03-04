@@ -1,0 +1,2 @@
+# GetMotionData
+AppleWatchを利用して、機械学習に入力するモーションデータを取得するソフトウェア
